@@ -13,6 +13,8 @@ MODEL SELECTION
 
 Model Choice: Models were selected based on the results of LazyPredict, which was used to perform a preliminary evaluation of various models on the dataset. The models chosen for detailed evaluation—Logistic Regression, SVC, Gaussian Naive Bayes, Decision Trees, Random Forest, AdaBoost, and XGBoost—demonstrated the most promise based on their initial performance metrics.
 
+Seed Value: A seed value of 7352 was used to ensure reproducibility in data splitting and model training.
+
 MODEL DEVELOPMENT and EVALUATION
 
 Model Training:
